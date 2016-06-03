@@ -1,4 +1,4 @@
-ProjetJava - QUERE & BOUADOU-N'DA
+ProjetJava - QUERE
 Pour faire fonctionner le programme, il faut passer en paramètre un fichier texte
 ex : Album.txt 
 dans lequel il ne faut utiliser que des espaces.
@@ -20,4 +20,4 @@ ex : mariageToto/bande.jpeg
 	 nomEvenement/nomPhoto.format
 	 
 Pour ajouter une personne, il faut mettre le nom de la personne puis son adresse mail à la suite de l'événement:
-ex : gayral gayral@free.fr
+ex : nquere nquere@bdzhbc.com
