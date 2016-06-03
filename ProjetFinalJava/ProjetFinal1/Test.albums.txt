@@ -1,0 +1,56 @@
+Album: planetes
+images/Neptune.gif
+images/Saturne.gif
+images/Soleil.gif
+images/Terre.gif
+mariageToto/bande.jpeg
+mariageToto/bouquet.jpeg
+mariageToto/jeunesMaries1.jpeg
+images/toto.gif
+images/finally.doc
+bande.jpeg
+
+Evenement: mariageToto
+dubacq dubacq@orange.fr
+gayral gayral@free.fr
+AlbumEvent: mariageToto
+mariageToto/bande.jpeg
+mariageToto/bouquet.jpeg
+mariageToto/jeunesMaries1.jpeg
+mariageToto/tenture.jpeg
+mariageToto/Neptune.gif
+
+Evenement: activitesSki
+Bouadou-n'da brahissa@yahoo.fr
+Quéré nquere.8@gmail.com
+AlbumEvent: activitesSki
+mariageToto/bande.gif
+mariageToto/bande.jpeg
+activitesSki/apprenti.jpg
+activitesSki/collectif.jpg
+activitesSki/groupe.jpg
+activitesSki/kid.jpg
+apprenti.jpg
+
+Evenement: cremaillere
+Bouadou-n'da brahissa@yahoo.fr
+Quéré nquere.8@gmail.com
+AlbumEvent: cremaillere
+cremaillere/biglogo.png
+cremaillere/buffet.png
+cremaillere/ChezManu.png
+cremaillere/ChezManu.jpg
+cremaillere/Crémaillère1.jpg
+cremaillere/Fete-de-cremaillere.jpg
+
+Evenement: vacancesAngleterre
+Bouadou-n'da brahissa@yahoo.fr
+Quéré nquere.8@gmail.com
+AlbumEvent: cremaillere
+vacancesAngleterre/cabine.jpg
+vacancesAngleterre/medium.jpg
+vacancesAngleterre/ChezManu.png
+vacancesAngleterre/vacances.jpg
+vacancesAngleterre/voyage.jpg
+Album.txt
+vacancesAngleterre

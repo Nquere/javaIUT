@@ -1,0 +1,18 @@
+Album: planetes
+images/Neptune.gif
+images/Saturne.gif
+images/Soleil.gif
+images/Terre.gif
+images/toto.gif
+images/finally.doc
+bande.jpeg
+Evenement: mariageToto
+dubacq dubacq@orange.fr
+gayral gayral@free.fr	
+AlbumEvent: mariageToto
+mariageToto/bande.jpeg
+mariageToto/bouquet.jpeg
+mariageToto/jeunesMaries1.jpeg
+mariageToto/tenture.jpeg
+mariageToto/Neptune.gif
+images/Soleil.gif

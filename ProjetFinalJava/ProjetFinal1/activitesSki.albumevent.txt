@@ -1,0 +1,11 @@
+Evenement: activitesSki
+Bouadou-n'da brahissa@yahoo.fr
+Quéré nquere.8@gmail.com
+AlbumEvent: activitesSki
+mariageToto/bande.gif
+mariageToto/bande.jpeg
+activitesSki/apprenti.jpg
+activitesSki/collectif.jpg
+activitesSki/groupe.jpg
+activitesSki/kid.jpg
+apprenti.jpg

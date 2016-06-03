@@ -1,0 +1,11 @@
+Evenement: vacancesAngleterre
+Bouadou-n'da brahissa@yahoo.fr
+Quéré nquere.8@gmail.com
+AlbumEvent: cremaillere
+vacancesAngleterre/cabine.jpg
+vacancesAngleterre/medium.jpg
+vacancesAngleterre/ChezManu.png
+vacancesAngleterre/vacances.jpg
+vacancesAngleterre/voyage.jpg
+Album.txt
+vacancesAngleterre

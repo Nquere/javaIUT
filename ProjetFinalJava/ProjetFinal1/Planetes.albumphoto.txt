@@ -1,0 +1,11 @@
+Album: planetes
+images/Neptune.gif
+images/Saturne.gif
+images/Soleil.gif
+images/Terre.gif
+mariageToto/bande.jpeg
+mariageToto/bouquet.jpeg
+mariageToto/jeunesMaries1.jpeg
+images/toto.gif
+images/finally.doc
+bande.jpeg

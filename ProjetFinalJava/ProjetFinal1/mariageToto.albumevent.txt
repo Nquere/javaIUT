@@ -1,0 +1,9 @@
+Evenement: mariageToto
+dubacq dubacq@orange.fr
+gayral gayral@free.fr
+AlbumEvent: mariageToto
+mariageToto/bande.jpeg
+mariageToto/bouquet.jpeg
+mariageToto/jeunesMaries1.jpeg
+mariageToto/tenture.jpeg
+mariageToto/Neptune.gif
